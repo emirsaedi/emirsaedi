@@ -9,7 +9,7 @@ I'm a MERN stack developer building web applications. I currently code for Qooe 
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-emirsaedi-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emirsaedi/)](https://www.linkedin.com/in/emirsaedi/)
-[![Twitter Badge](https://img.shields.io/badge/-@emirsaedi-1da1f2?style=flat-square&label&logo=Twitter&logoColor=white&link=https://twitter.com/emirsaedi)](https://twitter.com/emirsaedi)
+[![Twitter Badge](https://img.shields.io/badge/-emirsaedi-1da1f2?style=flat-square&label&logo=Twitter&logoColor=white&link=https://twitter.com/emirsaedi)](https://twitter.com/emirsaedi)
 
 </div>
 
