@@ -4,12 +4,12 @@
 I'm a MERN stack developer building web applications. I currently code for Qooe 🦢 which is a multi award winning design agency.
 </p>
 
-<p align="center">When I'm not coding find me gym.</p>
+<p align="center">When I'm not coding find me at gym.</p>
 
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-emirsaedi-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emirsaedi/)](https://www.linkedin.com/in/emirsaedi/)
-[![Twitter Badge](https://img.shields.io/badge/-@syrashid-1da1f2?style=flat-square&label&logo=Twitter&logoColor=white&link=https://twitter.com/emirsaedi)](https://twitter.com/emirsaedi)
+[![Twitter Badge](https://img.shields.io/badge/-@emirsaedi-1da1f2?style=flat-square&label&logo=Twitter&logoColor=white&link=https://twitter.com/emirsaedi)](https://twitter.com/emirsaedi)
 
 </div>
 
@@ -31,8 +31,6 @@ class Emir {
 
 const me = new Emir('Emir Saedi', 21, 'Qooe', 'Tehran, IR', ['gym', 'Snooker'], { studying: ['Deep JavaScript', 'NodeJS', '3D stuff on web'] })
 ```
-
-<br />
 
 ### Technologies & Tools
 
