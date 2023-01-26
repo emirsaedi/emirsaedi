@@ -1,7 +1,7 @@
 <h1 align="center">🥷 Howdy! I'm Emir Saedi</h1>
 
 <p align="center">
-I'm a MERN Stack Developer building web applications. I currently code for Qooe 🦢 which is a multi-award-winning design agency.
+I'm a Front-End Developer building web applications. I currently code for TaraabarNet which is an online freight marketplace.
 </p>
 
 <p align="center">When I'm not coding find me at gym.</p>
@@ -29,7 +29,7 @@ class Emir {
   }
 }
 
-const me = new Emir('Emir Saedi', 21, 'Qooe', 'Tehran, IR', ['gym', 'Snooker'], { studying: ['Deep JavaScript', 'NodeJS', 'TypeScript'] })
+const me = new Emir('Emir Saedi', 22, 'TaraabarNet', 'Tehran, IR', ['gym', 'Snooker'], { studying: ['Deep JavaScript', 'ReactJS', 'NodeJS'] })
 ```
 
 ### Technologies & Tools
