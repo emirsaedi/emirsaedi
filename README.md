@@ -9,7 +9,6 @@ I'm a Software Developer building web applications. I currently code for Taraaba
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-emirsaedi-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emirsaedi/)](https://www.linkedin.com/in/emirsaedi/)
-[![Twitter Badge](https://img.shields.io/badge/-emirsaedi-1da1f2?style=flat-square&label&logo=Twitter&logoColor=white&link=https://twitter.com/emirsaedi)](https://twitter.com/emirsaedi)
 
 </div>
 
@@ -29,7 +28,7 @@ class Emir {
   }
 }
 
-const me = new Emir('Emir Saedi', 22, 'TaraabarNet', 'Tehran, IR', ['gym', 'Snooker'], { studying: ['Deep JavaScript', 'ReactJS', 'NodeJS'] })
+const me = new Emir('Emir Saedi', 25, 'TaraabarNet', 'Tehran, IR', ['gym', 'Snooker'], { studying: ['Deep JavaScript', 'ReactJS', 'NodeJS'] })
 ```
 
 ### Technologies & Tools
@@ -45,9 +44,3 @@ const me = new Emir('Emir Saedi', 22, 'TaraabarNet', 'Tehran, IR', ['gym', 'Snoo
 ![greensock](https://img.shields.io/badge/Code-GreenSock-informational?style=flat-square&logo=GreenSock&logoColor=white&color=fd5c63)
 ![pug](https://img.shields.io/badge/Code-Pug-informational?style=flat-square&logo=Pug&logoColor=white&color=fd5c63)
 ![mongodb](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=fd5c63)
-
-### Quick stats about me
-
-| Github Stats                                                                                                                                                                                    | Top Languages                                                                                                                                                                                                              |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Emir's github stats](https://github-readme-stats.vercel.app/api?username=emirsaedi&show_icons=true&title_color=fd5c63&icon_color=fd5c63&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Emir's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirsaedi&show_icons=true&title_color=fd5c63&icon_color=fd5c63&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
